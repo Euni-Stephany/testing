@@ -1,0 +1,8 @@
+G:\kuliah\sem 2\pemrograman\Respomsi_4545\Respomsi_4545\obj\Debug\Respomsi_4545.csproj.AssemblyReference.cache
+G:\kuliah\sem 2\pemrograman\Respomsi_4545\Respomsi_4545\obj\Debug\Respomsi_4545.csproj.SuggestedBindingRedirects.cache
+G:\kuliah\sem 2\pemrograman\Respomsi_4545\Respomsi_4545\obj\Debug\Respomsi_4545.csproj.CoreCompileInputs.cache
+G:\kuliah\sem 2\pemrograman\Respomsi_4545\Respomsi_4545\bin\Debug\Respomsi_4545.exe.config
+G:\kuliah\sem 2\pemrograman\Respomsi_4545\Respomsi_4545\bin\Debug\Respomsi_4545.exe
+G:\kuliah\sem 2\pemrograman\Respomsi_4545\Respomsi_4545\bin\Debug\Respomsi_4545.pdb
+G:\kuliah\sem 2\pemrograman\Respomsi_4545\Respomsi_4545\obj\Debug\Respomsi_4545.exe
+G:\kuliah\sem 2\pemrograman\Respomsi_4545\Respomsi_4545\obj\Debug\Respomsi_4545.pdb
